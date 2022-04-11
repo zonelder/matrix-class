@@ -3,7 +3,7 @@
 #include <iomanip>
 
 /// <summary>
-/// перекинуть в 2 файла класса
+/// ГЇГҐГ°ГҐГЄГЁГ­ГіГІГј Гў 2 ГґГ Г©Г«Г  ГЄГ«Г Г±Г±Г 
 /// </summary>
 /// <typeparam name="T"></typeparam>
 
@@ -73,6 +73,5 @@ int main() {
     m.show();
     m.Scaling(2);
     m.show();
-  */  
-    diamondSquare(std::move(m), size/ 2, width);
+*/
 }
